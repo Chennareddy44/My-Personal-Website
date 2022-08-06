@@ -43,7 +43,7 @@ hr {
 }
 
 a {
-  color: white;
+  color: #11999E;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -147,8 +147,12 @@ a:hover {
   padding: 20px 0;
 }
 
+/* .web-dev-description {
+  clear: left;
+}
 
+.dsa-description {
+  clear: right;
+}
 
-
-
-
+*/
